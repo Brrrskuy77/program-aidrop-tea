@@ -1,0 +1,31 @@
+{
+  "name": "program-airdrop-tea",
+  "version": "1.0.0",
+  "description": "Program for all user tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "testnet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/program-aidrop-tea.git"
+  },
+  "keywords": [
+    "Program",
+    "Airdrop",
+    "Tea"
+  ],
+  "author": "Raneire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/program-aidrop-tea/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/program-aidrop-tea#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
